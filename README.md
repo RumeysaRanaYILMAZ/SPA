@@ -37,6 +37,8 @@ Linux & Mac: ```source env/bin/activate```
 
 Windows: ```env\Scripts\activate```
 
+cd SPA\serviceapp
+
 ```pip install -r requirements.txt```
 
 ```python manage.py makemigrations```
