@@ -3,25 +3,47 @@ This is an demo project for  finding services online.
 Thanks for providing free templates to colorlib. https://colorlib.com/wp/cat/education/
 
 
+
+![Fionse APP](1.jpg)
+
+
+
+
+![Fionse APP](2.jpg)
+
+
+
+
+
+![Fionse APP](3.jpg)
+
+
+
+
+
+![Fionse APP](4.jpg)
+
+To Find Out More Check templates
+
+
+
 Setup
 
 #Creating Virtual Environment For Project
 pip install virtualenv
 virtualenv env 
 
-Linux & Mac: source env/bin/activate
+Linux & Mac: ```source env/bin/activate```
 
-Windows: env\Scripts\activate
+Windows: ```env\Scripts\activate```
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-python manage.py makemigrations
+```python manage.py makemigrations```
 
-python manage.py migrate
+```python manage.py migrate``` #Ignore Warnings#
 
-python manage.py createsuper
-
-python manage.py runserver
+```python manage.py runserver```
 
 Type your Browser ==> http://127.0.0.1:8000/
 
