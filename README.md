@@ -25,8 +25,7 @@ Thanks for providing free templates to colorlib. https://colorlib.com/wp/cat/edu
 
 ![Fionse APP](4.jpg)
 
-To Find Out More Check templates
-
+To Find Out More Check templatesStatics
 
 
 Setup
@@ -55,5 +54,5 @@ To see all html files travel like
 
 Programming ==> Web Design ==> Get Your Website (Find Out More)
 
-All html,css,img.. files in templatesandStatics folder.
+All html,css,img.. files in templatesStatics folder.
 
