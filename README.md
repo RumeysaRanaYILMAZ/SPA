@@ -1,7 +1,7 @@
 #SERVICE PROVIDER APLLICATION
 
 
-This is an demo project for  finding services online. Django Bootstrap cryptography 
+This is an demo project for  finding services online. Django==2.2.5 Bootstrap cryptography 
 Thanks for providing free templates to colorlib. https://colorlib.com/wp/cat/education/
 
 
